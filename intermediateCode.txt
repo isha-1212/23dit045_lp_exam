@@ -1,0 +1,7 @@
+0064	          	START     	100                 
+0064	ONE       	WORD      	1                   
+0067	ALPHA     	WORD      	5                   
+006A	          	LDA       	ALPHA               
+006D	          	ADD       	ONE                 
+0070	          	STA       	ALPHA               
+0073	          	END       	                    

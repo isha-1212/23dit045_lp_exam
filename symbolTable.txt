@@ -1,0 +1,3 @@
+SYMBOL	ADDRESS
+ONE       	0064
+ALPHA     	0067
